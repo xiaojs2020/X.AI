@@ -4,7 +4,7 @@ import cohere
 import openai
 
 # 设置 OpenAI API 密钥
-openai.api_key = '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'
+openai.api_key = '/token'
 co = cohere.Client('hcmOSywWJNyRDmLqK2M1ScyVDOCwh3AnFK1hrCLB')
 
 
